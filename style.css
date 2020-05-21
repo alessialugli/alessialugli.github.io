@@ -1,17 +1,26 @@
 h1{
 	text-align:center;
+	color: white;
 }
 body{ 
 	background-color: pink;
+	margin: 20px;
 }
 img{
 	height: 200px; 
 	width: 400px;
 }
-table, th, td{
-	border: 1px solid black;
+a{
+	color: white;
 }
-table{
+.table{
 	height: 100px;
 	width: 400px;
+}
+.jumbotron{
+	background-color: #454d55;
+
+}
+.card{
+	margin-top: 20px;
 }
